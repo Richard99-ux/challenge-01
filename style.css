@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Header Navbar */
+#nav{
+    position: sticky;
+    top: 0px;
+    z-index: 1001px;
+}
+
+
+.navbar-nav li{
+    padding: 0 10px;
+}
+
+.navbar-nav li a{
+    color: Black !important;
+    font-weight: normal;
+}
+
+.nav-tank{
+    background: #5CBB5F;
+    border-radius: 2px;
+}
+
+/* Hero section */
+#hero .hero .container .row .col-md-6{
+    padding-top: 5%;  
+    
+}
+
+
+/* Our Services */
+.contain{
+    margin-top: 150px;
+}
+
+#services{
+    margin-top: 80px;
+}
+
+/* Why Us */
+#why{
+    margin-top: 100px;
+    margin-left: 15px;
+}
+
+/* Testimony */
+.carousel-indicators li{
+    background: #f1f3ff;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    top: 100px;
+}
+
+.carousel-indicators .active{
+    background: #5CBB5F;
+}
+
+/* CTA Banner */
+.col a{
+    margin-top: 25px;
+}
