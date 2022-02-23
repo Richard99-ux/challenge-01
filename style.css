@@ -97,3 +97,28 @@
 .accordion-item:target .answer{
     max-height: 20rem;
 }
+
+/* Footer */
+.feather{
+    width: 25px;
+    height: 25px;
+    background: #0D28A6;
+    border-radius: 100%;
+    color: white;
+}
+
+.feather-instagram{
+    margin-left: 5px;
+}
+
+.feather-twitter{
+    margin-left: 5px;
+}
+
+.feather-mail{
+    margin-left: 5px;
+}
+
+.feather-twitch{
+    margin-left: 4px;
+}
