@@ -3,13 +3,12 @@
     padding: 0px;
 }
 
-/* Header Navbar */
-#nav{
-    position: sticky;
-    top: 0px;
-    z-index: 1001px;
+/* Header navbar & hero */
+header{
+    background-color: #F1F3FF;
+    height: 500px;
+    width: 1300px;
 }
-
 
 .navbar-nav li{
     padding: 0 10px;
@@ -25,10 +24,8 @@
     border-radius: 2px;
 }
 
-/* Hero section */
-#hero .hero .container .row .col-md-6{
-    padding-top: 5%;  
-    
+.col-md-6{
+    margin-top: 127px;
 }
 
 
@@ -58,7 +55,7 @@
 }
 
 .carousel-indicators .active{
-    background: #5CBB5F;
+    background: #5CBB5F
 }
 
 /* CTA Banner */
@@ -110,6 +107,7 @@
 
 .feather-instagram{
     margin-left: 5px;
+
 }
 
 .feather-twitter{
