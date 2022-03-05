@@ -1,70 +1,70 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
 
 /* Header navbar & hero */
-header{
+header {
     background-color: #F1F3FF;
     height: 500px;
     width: 1300px;
 }
 
-.navbar-nav li{
+.navbar-nav li {
     padding: 0 10px;
 }
 
-.navbar-nav li a{
+.navbar-nav li a {
     color: Black !important;
     font-weight: normal;
 }
 
-.nav-tank{
+.nav-tank {
     background: #5CBB5F;
     border-radius: 2px;
 }
 
-.col-md-6{
+.col-md-6 {
     margin-top: 127px;
 }
 
 
 /* Our Services */
-.contain{
+.contain {
     margin-top: 150px;
 }
 
-#services{
+#services {
     margin-top: 80px;
 }
 
 /* Why Us */
-#why{
+#why {
     margin-top: 100px;
     margin-left: 15px;
 }
 
 /* Testimony */
-.carousel-indicators li{
+.carousel-indicators li {
     background: #f1f3ff;
     border-radius: 50%;
     width: 15px;
     height: 15px;
     top: 100px;
-    
+
 }
 
-.carousel-indicators .active{
+.carousel-indicators .active {
     background: #5CBB5F
 }
 
 /* CTA Banner */
-.col a{
+.col a {
     margin-top: 25px;
 }
 
 /* FAQ */
-.accordion-item{
+.accordion-item {
     background-color: #FFFFFF;
     border: 1px solid #D4D4D4;
     box-sizing: border-box;
@@ -72,32 +72,34 @@ header{
     margin-top: 20px;
     width: 600px;
 }
-.accordion-link{
+
+.accordion-link {
     left: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
     color: black;
 }
-.answer{
+
+.answer {
     left: 10px;
     max-height: 0;
     overflow: hidden;
-    position: relative; 
+    position: relative;
     transition: max-height 650ms;
 }
 
-.answer p{
+.answer p {
     padding-top: 20px;
-    
+
 }
 
-.accordion-item:target .answer{
+.accordion-item:target .answer {
     max-height: 20rem;
 }
 
 /* Footer */
-.feather{
+.feather {
     width: 25px;
     height: 25px;
     background: #0D28A6;
@@ -105,19 +107,19 @@ header{
     color: white;
 }
 
-.feather-instagram{
+.feather-instagram {
     margin-left: 5px;
 
 }
 
-.feather-twitter{
+.feather-twitter {
     margin-left: 5px;
 }
 
-.feather-mail{
+.feather-mail {
     margin-left: 5px;
 }
 
-.feather-twitch{
+.feather-twitch {
     margin-left: 4px;
 }
